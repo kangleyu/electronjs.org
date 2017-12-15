@@ -35,6 +35,7 @@
     "cross-env": "^5.1.1",
     "description": "0.0.2",
     "dotenv": "^4.0.0",
+    "electron-api-historian": "^1.1.0",
     "electron-apps": "1.1991.0",
     "electron-i18n": "0.31.0",
     "electron-userland-reports": "1.6.0",
